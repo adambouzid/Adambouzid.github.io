@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ralway:wght@200&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-family: 'raleway',sans-serif;
+}
+nav{
+    width: 100%;
+    background-color: blue;
+    padding: 10px;
+    margin: 0;
+
+}
+header{ clear: 80%;}
